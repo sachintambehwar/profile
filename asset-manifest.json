@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sachintambehwar/profile/static/css/main.29913d33.css",
+    "main.js": "/sachintambehwar/profile/static/js/main.f53f39ff.js",
+    "static/media/resume.pdf": "/sachintambehwar/profile/static/media/resume.54a07c945cf23f366691.pdf",
+    "static/media/St1.svg": "/sachintambehwar/profile/static/media/St1.4d34203ad0816b17c75a8127b93a73cf.svg",
+    "index.html": "/sachintambehwar/profile/index.html",
+    "main.29913d33.css.map": "/sachintambehwar/profile/static/css/main.29913d33.css.map",
+    "main.f53f39ff.js.map": "/sachintambehwar/profile/static/js/main.f53f39ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29913d33.css",
+    "static/js/main.f53f39ff.js"
+  ]
+}
